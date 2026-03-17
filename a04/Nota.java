@@ -1,3 +1,5 @@
+package a04;
+
 public enum Nota {
     DO,
     RE, 
